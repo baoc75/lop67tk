@@ -2,7 +2,7 @@ About us
 ===
 
 Lop 6/7 TK is a education websites, allow you search, play, learn on our websites. You can help us by translate to others language, bug report,... 
-Website: http://www.lop67.tk
+Website: http://www.lop67.tk, also check our blog: http://blog.lop67.tk
 Have fun when translate, hacking or do something on our site :D
 
 Translation the website
