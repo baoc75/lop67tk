@@ -1,9 +1,9 @@
 About us
 ===
 
-Lop 6/7 TK is a education websites, allow you search, play, learn on our websites. Our product: Lop 6/7 Tim Kiem (search engine), Lop 6/7 Hoi Dap (Ask and answer), Lop 6/7 Hai Vui Lam (Media social network),...
+Lop 6/7 TK is a education websites, allow you search, play, learn on our websites.        Our product: Lop 6/7 Tim Kiem (search engine), Lop 6/7 Hoi Dap (Ask and answer), Lop 6/7 Hai Vui Lam (Media social network),...        
 Website: http://www.lop67.tk, also check our blog: http://blog.lop67.tk
-Have fun when translate, hacking or do something on our site :D
+    Have fun when translate, hacking or do something on our site :D
 
 Translate the website
 ===
