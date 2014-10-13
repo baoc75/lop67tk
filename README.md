@@ -18,9 +18,9 @@ That mean you redesign the search page or even make a new search engine with PHP
 Contact us
 ===
 
-You can contact us via:
-Facebook Fanpage: fb.com/lop67.tk
-Email: hotro@lop67.tk
-You these Contact infomation to tell us if you need any help or any question when develop or translate, we're glad to answer you!
-
+You can contact us via:         
+Facebook Fanpage: fb.com/lop67.tk        
+Email: hotro@lop67.tk         
+You these contact infomation to tell us if you need any help or any question when develop or translate, we're glad to answer you!
+          
 Want more? Wait :D
