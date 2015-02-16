@@ -1,0 +1,32 @@
+* Lop 6/7 Tim Kiem English Translation *
+* Last updated by baoc75 - 02/16/2015 *
+* Send your translation to Github repository: http://www.github.com/baoc75/lop67tk *
+<!-- Index.html -->
+<!--I. Menu-->
+Trang chủ - Home
+Giới thiệu - About us
+7/7 Lớp tôi - 7/7 My class
+Blog - Blog
+Liên hệ - Contact
+
+<!--II. Search area-->
+Hôm nay bạn tìm gì? - What do you want to search today?
+Web - Web
+Hình ảnh - Images
+Video - Videos
+Tin tức - News
+
+<!--III. Infomation box-->
+Website nổi bật - Popular website
+Chỉ cần một click để đến trang bạn thường truy cập mà không cần phải gõ địa chỉ - Lớp 6/7 Tìm Kiếm đánh giá dựa trên lượt truy cập
+One click to most visited website without typing. We based on pageview.
+
+<!--III. Footer-->
+Copyright © 2013-2014 Chi Bao Company - Copyright © 2013-2014 Chi Bao Company
+Tìm kiếm - Search
+Giới thiệu - About us
+7/7 Lớp tôi - 7/7 My class
+Quảng cáo - Advertise with us
+Blog - Blog
+Webmaster Tools - Webmaster Tools
+Liên hệ - Contact
